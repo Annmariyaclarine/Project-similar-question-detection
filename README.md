@@ -1,2 +1,2 @@
-# Similar-question-detection ===> Main Project
+# Similar-question-detection - Main Project
 Dataset - quora dataset of question pairs
